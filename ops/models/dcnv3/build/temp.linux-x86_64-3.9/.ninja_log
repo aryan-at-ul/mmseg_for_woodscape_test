@@ -1,7 +1,0 @@
-# ninja log v5
-0	4009	1736425459913390391	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/cpu/dcnv3_cpu.o	a9d7544ddd52fc4d
-0	11604	1736425467505461132	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/vision.o	47586b0ce39a5352
-0	46364	1736425502251784872	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/cuda/dcnv3_cuda.o	9ff77979a68c770e
-16	3858	1736828895601795034	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/cpu/dcnv3_cpu.o	a9d7544ddd52fc4d
-17	11139	1736828902879874593	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/vision.o	47586b0ce39a5352
-16	43963	1736828935684233186	/home/annatar/projects/OPS/ops/models/dcnv3/build/temp.linux-x86_64-3.9/home/annatar/projects/OPS/ops/models/dcnv3/src/cuda/dcnv3_cuda.o	9ff77979a68c770e
